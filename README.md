@@ -8,7 +8,7 @@
 
 ### Target Audience
 * Szabolcs Pasztor
-* Any current CAD users such as:
+* Any current CAD user such as:
     * AutoCAD users
     * BricsCAD Users
 * Any potentential CAD users such as:
@@ -18,7 +18,11 @@
     * Old timers who currently draft by hand.
 
 ### Method of Communication
+Github Issues
 ### Goals
+* Provide a command console for interacting with the program
+* Provide File Management (I.E. File open, close, read and write). Files will be in [JSON][http://www.w3schools.com/json/] format for now and 
+
 ### AntiGoals
 ### Related Projects
 ### Time Estimate
