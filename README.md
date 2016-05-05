@@ -1,5 +1,5 @@
 # OpenCAD
----
+
 ## Project Description
 This is a prototype for **OpenCAD**, an open source software for computer aided drafting (CAD) along with providing powerful tools and automation for engineers, architects and alike. OpenCAD's philosophy is to reduce mundane tasks in pumping out a massive planset with one hell of a deadline, by letting the drafter do simple drafting once again. OpenCAD feels as simple as pen on paper with a scale while providing a considerable amount of complexity and automation and the users direction.
 
